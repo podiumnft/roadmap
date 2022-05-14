@@ -45,7 +45,6 @@
     width: 100%;
     align-items: center;
     justify-content: space-between;
-    border-radius: 10px;
     font-weight: 550;
     /* background-color: #F9E0D7; */
     /* background-color: #ffd2ea; */
@@ -95,9 +94,9 @@
 @media screen and (max-width: 479px){
     .logo{
         align-items: center;
-        padding-top: 5%;
+        padding-top: 9%;
         margin: -20px 0 0 50px;
-        padding-top: 10%;
+        
       }
       .sr-only {
         display: block;
@@ -204,7 +203,7 @@
     margin-left: 0;
     margin-right: 0;
   }
-    body{
-    margin:0;
-    }
+  body{
+    margin: 0;
+  }
 }
